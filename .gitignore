@@ -1,0 +1,6 @@
+.DS_Store
+Thumbs.db
+*.log
+work/
+private-captures/
+node_modules/
